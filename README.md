@@ -2,7 +2,6 @@
 
 Computer Science and Engineering student at KCG College of Technology.<br/>
 I am currently building MERN projects.<br/>
-I create visually appealing and usable products.<br/>
 
 
 # 💻 Tech Stack:
